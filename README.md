@@ -1,3 +1,3 @@
 # Trabalho_SI_Desenv_Servidores
 
-Trabalho de Desenvolvimento para Servidores 1
+Trabalho para a P2 de Desenvolvimento para Servidores I
